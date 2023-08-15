@@ -1,2 +1,0 @@
-# AutoBountyFree
-Script Auto Bounty
